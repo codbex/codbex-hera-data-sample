@@ -1,0 +1,15 @@
+{
+  "files": [
+    {
+      "table": "CODBEX_NUMBER",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/numbers.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    }
+  ]
+}
