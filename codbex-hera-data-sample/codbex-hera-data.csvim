@@ -10,6 +10,28 @@
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
+    },
+    {
+      "table": "CODBEX_CITY",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/cities.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_COMPANY",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/companies.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
     }
   ]
 }
