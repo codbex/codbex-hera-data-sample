@@ -1,31 +1,31 @@
 JOBROLE_ID,JOBROLE_NAME,JOBROLE_COMPANY
-1, Software Engineer, 1
-2, Data Analyst, 1
-3, Product Manager, 1
-4, Marketing Specialist, 2
-5, Graphic Designer, 2
-6, Sales Executive, 2
-7, Customer Support, 3
-8, IT Support Technician, 3
-9, Human Resources Manager, 3
-10, Business Analyst, 4
-11, Financial Consultant, 4
-12, Digital Marketing Manager, 4
-13, Data Scientist, 5
-14, Operations Manager, 5
-15, Project Manager, 5
-16, UX Designer, 1
-17, Cloud Architect, 1
-18, Social Media Manager, 2
-19, Content Writer, 2
-20, Account Manager, 3
-21, Network Engineer, 3
-22, DevOps Engineer, 4
-23, Legal Advisor, 4
-24, Frontend Developer, 5
-25, Backend Developer, 5
-26, Executive Assistant, 1
-27, Quality Assurance Engineer, 2
-28, PR Specialist, 3
-29, Risk Manager, 4
-30, Supply Chain Analyst, 5
+1,Software Engineer,1
+2,Data Analyst,1
+3,Product Manager,1
+4,Marketing Specialist,2
+5,Graphic Designer,2
+6,Sales Executive,2
+7,Customer Support,3
+8,IT Support Technician,3
+9,Human Resources Manager,3
+10,Business Analyst,4
+11,Financial Consultant,4
+12,Digital Marketing Manager,4
+13,Data Scientist,5
+14,Operations Manager,5
+15,Project Manager,5
+16,UX Designer,1
+17,Cloud Architect,1
+18,Social Media Manager,2
+19,Content Writer,2
+20,Account Manager,3
+21,Network Engineer,3
+22,DevOps Engineer,4
+23,Legal Advisor,4
+24,Frontend Developer,5
+25,Backend Developer,5
+26,Executive Assistant,1
+27,Quality Assurance Engineer,2
+28,PR Specialist,3
+29,Risk Manager,4
+30,Supply Chain Analyst,5
