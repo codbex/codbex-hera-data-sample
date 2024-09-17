@@ -32,6 +32,28 @@
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
+    },
+    {
+      "table": "CODBEX_JOBROLE",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/job-roles.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_ORGANIZATION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/organizations.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
     }
   ]
 }
