@@ -1,0 +1,22 @@
+TEAM_ID,TEAM_NAME,TEAM_ORGANIZATION,TEAM_DEPARTMENT
+1,Recruitment,1,1
+2,Accounting,1,2
+3,Salaries,1,2
+4,Social Media,2,3
+5,Stores,2,4
+6,Online,2,4
+7,Calls,6,7
+8,Emails,6,7
+9,Website,7,10
+10,Deliveries,7,12
+11,Packaging,7,12
+12,Testing,11,14
+13,Development,11,15
+14,Strategies,12,16
+15,Researches,16,21
+16,Tik tok,17,24
+17,Facebook,17,24
+18,Front-end,21,25
+19,Back-end,21,25
+20,Posters,22,28
+21,Banners,22,28
