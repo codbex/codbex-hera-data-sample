@@ -45,17 +45,6 @@
       "version": ""
     },
     {
-      "table": "CODBEX_ORGANIZATION",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/organizations.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
       "table": "CODBEX_DEPARTMENT",
       "schema": "PUBLIC",
       "file": "/codbex-hera-data-sample/departments.csv",
@@ -70,6 +59,28 @@
       "table": "CODBEX_TEAM",
       "schema": "PUBLIC",
       "file": "/codbex-hera-data-sample/teams.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_JOBPOSITION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/job-positions.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_ORGANIZATION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/organizations.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
