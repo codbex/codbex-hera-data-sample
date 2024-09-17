@@ -78,9 +78,20 @@
       "version": ""
     },
     {
-      "table": "CODBEX_ORGANIZATION",
+      "table": "CODBEX_EMPLOYEE",
       "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/organizations.csv",
+      "file": "/codbex-hera-data-sample/employees.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_CONTACT",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/contacts.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
