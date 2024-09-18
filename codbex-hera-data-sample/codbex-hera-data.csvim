@@ -113,7 +113,7 @@
     {
       "table": "CODBEX_EMPLOYEECONTRACTITEM",
       "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/employee-contracts-items.csv",
+      "file": "/codbex-hera-data-sample/employee-contract-items.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
