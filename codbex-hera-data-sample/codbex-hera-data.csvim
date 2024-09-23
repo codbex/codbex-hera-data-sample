@@ -10,6 +10,149 @@
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
+    },
+    {
+      "table": "CODBEX_CITY",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/cities.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_COMPANY",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/companies.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_JOBROLE",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/job-roles.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_DEPARTMENT",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/departments.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_TEAM",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/teams.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_JOBPOSITION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/job-positions.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_EMPLOYEE",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/employees.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_CONTACT",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/contacts.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_EMPLOYEECONTRACT",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/employee-contracts.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_EMPLOYEECONTRACTITEM",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/employee-contract-items.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_ORGANIZATION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/organizations.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_JOBASSIGNMENT",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/job-assignment.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_EMPLOYEEASSIGNMENT",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/employee-assignment.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
     }
   ]
 }
