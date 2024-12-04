@@ -18,9 +18,9 @@ jobs:
       packages-build: codbex-hera-data-sample
       release-version: ${{ inputs.release-version }}
       release-content: |
-        ## codbex-invoices - ${{ inputs.release-version }}
+        ## codbex-hera-data-sample - ${{ inputs.release-version }}
         
-       Hera Data Sample Management Module
+        Hera Data Sample Management Module
         
         ## Installation
         
