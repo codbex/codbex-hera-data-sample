@@ -25,7 +25,7 @@ jobs:
         ## Installation
         
         ```
-        npm install @codbex/codbex-invoices@${{ inputs.release-version }}
+        npm install @codbex/codbex-hera-data-sample@${{ inputs.release-version }}
         ```
         
         ## Access points:
