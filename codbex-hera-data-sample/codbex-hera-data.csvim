@@ -175,17 +175,6 @@
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
-    },
-    {
-      "table": "CODBEX_ANNUALLEAVE",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/annual-leave.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
     }
   ]
 }
