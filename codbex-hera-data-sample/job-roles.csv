@@ -29,3 +29,80 @@ JOBROLE_ID,JOBROLE_NAME,JOBROLE_COMPANY
 28,PR Specialist,3
 29,Risk Manager,4
 30,Supply Chain Analyst,5
+31,Marketing Executive,6
+32,Product Researcher,6
+33,Operations Analyst,6
+34,Customer Relations Specialist,6
+35,Tech Support Specialist,6
+36,Environmental Consultant,7
+37,Energy Efficiency Analyst,7
+38,Renewable Energy Strategist,7
+39,Waste Management Specialist,7
+40,Policy Researcher,7
+41,Network Administrator,8
+42,Cybersecurity Specialist,8
+43,System Integration Engineer,8
+44,Technical Account Manager,8
+45,Infrastructure Manager,8
+46,Copy Editor,9
+47,Advertising Specialist,9
+48,Market Trends Analyst,9
+49,Creative Director,9
+50,Communications Officer,9
+51,Construction Foreman,10
+52,Geotechnical Engineer,10
+53,Project Scheduler,10
+54,Cost Estimator,10
+55,Building Inspector,10
+56,Agricultural Technician,11
+57,Farm Equipment Manager,11
+58,Food Production Supervisor,11
+59,Irrigation Specialist,11
+60,Harvest Planner,11
+61,Machine Learning Engineer,12
+62,Data Engineer,12
+63,Cloud Deployment Specialist,12
+64,Software Quality Analyst,12
+65,Systems Analyst,12
+66,Client Relations Manager,13
+67,Business Intelligence Analyst,13
+68,Event Planner,13
+69,Advertising Campaign Manager,13
+70,Corporate Trainer,13
+71,Clinical Trial Manager,14
+72,Health Informatics Specialist,14
+73,Medical Affairs Coordinator,14
+74,Quality Assurance Specialist,14
+75,Drug Safety Associate,14
+76,Construction Materials Specialist,15
+77,Safety Officer,15
+78,Site Engineer,15
+79,Quantity Surveyor,15
+80,Design Engineer,15
+81,Urban Ecosystem Planner,16
+82,Green Building Consultant,16
+83,Environmental Policy Analyst,16
+84,Community Outreach Coordinator,16
+85,Energy Solutions Advisor,16
+86,Electrical Design Engineer,17
+87,Solar Power Technician,17
+88,Hydropower Engineer,17
+89,Energy Storage Specialist,17
+90,Wind Farm Technician,17
+91,Finance Controller,18
+92,Investment Advisor,18
+93,Business Risk Manager,18
+94,Regulatory Compliance Officer,18
+95,Corporate Financial Planner,18
+96,Lab Operations Manager,19
+97,Innovation Process Manager,19
+98,Regulatory Affairs Specialist,19
+99,Material Quality Analyst,19
+100,R&D Strategy Manager,19
+101,Chief Operating Officer,20
+102,HR Business Partner,20
+103,Learning and Development Specialist,20
+104,Procurement Manager,20
+105,Digital Operations Lead,20
+
+
