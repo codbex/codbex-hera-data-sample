@@ -1,14 +1,14 @@
-JOBAPPLICATION_ID,JOBAPPLICATION_OFFER,JOBAPPLICATION_STATUS,JOBAPPLICATION_NAMES,JOBAPPLICATIONS_EMAIL,JOBAPPLICATION_PHONENUMBER,JOBAPPLICATION_CV
-1,1,1,John Doe,johndoe@example.com,1234567890,JohnDoe_CV.pdf
-2,2,2,Jane Smith,janesmith@example.com,2345678901,JaneSmith_CV.pdf
-3,3,3,Michael Brown,michaelbrown@example.com,3456789012,MichaelBrown_CV.pdf
-4,4,4,Susan Lee,susanlee@example.com,4567890123,SusanLee_CV.pdf
-5,5,5,David Wilson,davidwilson@example.com,5678901234,DavidWilson_CV.pdf
-6,6,1,Emily Davis,emilydavis@example.com,6789012345,EmilyDavis_CV.pdf
-7,7,2,Christopher Miller,christophermiller@example.com,7890123456,ChristopherMiller_CV.pdf
-8,8,3,Ashley Johnson,ashleyjohnson@example.com,8901234567,AshleyJohnson_CV.pdf
-9,9,4,Matthew Martinez,matthewmartinez@example.com,9012345678,MatthewMartinez_CV.pdf
-10,10,5,Olivia Garcia,oliviagarcia@example.com,1234509876,OliviaGarcia_CV.pdf
+JOBAPPLICATION_ID,JOBAPPLICATION_JOBOFFER,JOBAPPLICATION_STATUS,JOBAPPLICATION_NAMES,JOBAPPLICATION_EMAIL,JOBAPPLICATION_PHONENUMBER,JOBAPPLICATION_CV
+1,1,1,John Doe,johndoe@example.com,1234567890,https://JohnDoe_CV.pdf
+2,2,2,Jane Smith,janesmith@example.com,2345678901,https://JaneSmith_CV.pdf
+3,3,3,Michael Brown,michaelbrown@example.com,3456789012,https://MichaelBrown_CV.pdf
+4,4,4,Susan Lee,susanlee@example.com,4567890123,https://SusanLee_CV.pdf
+5,5,5,David Wilson,davidwilson@example.com,5678901234,https://DavidWilson_CV.pdf
+6,6,1,Emily Davis,emilydavis@example.com,6789012345,https://EmilyDavis_CV.pdf
+7,7,2,Christopher Miller,christophermiller@example.com,7890123456,https://Christophe...
+8,8,3,Ashley Johnson,ashleyjohnson@example.com,8901234567,https://AshleyJohnson_CV.pdf
+9,9,4,Matthew Martinez,matthewmartinez@example.com,9012345678,https://MatthewMarti...
+10,10,5,Olivia Garcia,oliviagarcia@example.com,1234509876,https://OliviaGarcia_CV.pdf
 11,11,1,Ethan Rodriguez,ethanrodriguez@example.com,2345609871,EthanRodriguez_CV.pdf
 12,12,2,Ava Hernandez,avahernandez@example.com,3456709872,AvaHernandez_CV.pdf
 13,13,3,Isabella Gonzalez,isabellagonzalez@example.com,4567809873,IsabellaGonzalez_CV.pdf
