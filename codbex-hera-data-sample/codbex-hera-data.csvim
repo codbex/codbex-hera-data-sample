@@ -175,6 +175,39 @@
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
+    },
+    {
+      "table": "CODBEX_JOBOFFER",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/job-offers.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_JOBAPPLICATION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/job-applications.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_LEAVEREQUEST",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/leave-requests.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
     }
   ]
 }
