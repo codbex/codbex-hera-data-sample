@@ -28,5 +28,5 @@ NUMBER_ID,NUMBER_TYPE,NUMBER_PREFIX,NUMBER_LENGTH,NUMBER_VALUE
 27,Job Assignment,JA,10,0
 28,Employee Contract,ECO,10,0
 29,Project,PRO,10,0
-30,Leave Request,LRD,10,0
+30,Leave Request,LRD,10,30
 31,Payroll Entry,PRE,10,0

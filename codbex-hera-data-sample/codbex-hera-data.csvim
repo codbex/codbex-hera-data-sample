@@ -1,24 +1,13 @@
 {
   "files": [
     {
-      "table": "CODBEX_NUMBER",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/numbers.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
       "table": "CODBEX_CITY",
       "schema": "PUBLIC",
       "file": "/codbex-hera-data-sample/cities.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     },
@@ -29,62 +18,7 @@
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_JOBROLE",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/job-roles.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_DEPARTMENT",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/departments.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_TEAM",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/teams.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_JOBPOSITION",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/job-positions.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_EMPLOYEE",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/employees.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     },
@@ -95,7 +29,29 @@
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_DEPARTMENT",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/departments.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "'",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_EMPLOYEE",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/employees.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     },
@@ -106,7 +62,7 @@
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     },
@@ -122,13 +78,13 @@
       "version": ""
     },
     {
-      "table": "CODBEX_ORGANIZATION",
+      "table": "CODBEX_JOBAPPLICATION",
       "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/organizations.csv",
+      "file": "/codbex-hera-data-sample/job-applications.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     },
@@ -139,40 +95,7 @@
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_EMPLOYEEASSIGNMENT",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/employee-assignment.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_SALARY",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/salaries.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_SALARYITEM",
-      "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/salary-items.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     },
@@ -183,18 +106,29 @@
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     },
     {
-      "table": "CODBEX_JOBAPPLICATION",
+      "table": "CODBEX_JOBPOSITION",
       "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/job-applications.csv",
+      "file": "/codbex-hera-data-sample/job-positions.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_JOBROLE",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/job-roles.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     },
@@ -205,7 +139,62 @@
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
-      "delimEnclosing": "\"",
+      "delimEnclosing": "'",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_NUMBER",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/numbers.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "'",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_ORGANIZATION",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/organizations.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "'",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_SALARY",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/salaries.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "'",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_SALARYITEM",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/salary-items.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "'",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_TEAM",
+      "schema": "PUBLIC",
+      "file": "/codbex-hera-data-sample/teams.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "'",
       "distinguishEmptyFromNull": true,
       "version": ""
     }
