@@ -56,9 +56,9 @@
       "version": ""
     },
     {
-      "table": "CODBEX_EMPLOYEECONTRACTITEM",
+      "table": "CODBEX_EMPLOYEECONTRACT",
       "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/employee-contracts-items.csv",
+      "file": "/codbex-hera-data-sample/employee-contracts.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -67,9 +67,9 @@
       "version": ""
     },
     {
-      "table": "CODBEX_EMPLOYEECONTRACT",
+      "table": "CODBEX_EMPLOYEECONTRACTITEM",
       "schema": "PUBLIC",
-      "file": "/codbex-hera-data-sample/employee-contracts.csv",
+      "file": "/codbex-hera-data-sample/employee-contracts-items.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
