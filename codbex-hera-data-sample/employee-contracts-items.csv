@@ -1,5 +1,5 @@
 EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEECONTRACT
-1,"Notification under Article 62, Paragraph 5 of the Labor Code",1
+1,'Notification under Article 62, Paragraph 5 of the Labor Code',1
 2,Job Description,1
 3,Medical Certificate,1
 4,Bank Account Details,1
@@ -8,7 +8,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 7,Criminal Record Cerificate,1
 8,Safety Declaration,1
 9,Safety Questionnaire,1
-10,"Notification under Article 62, Paragraph 5 of the Labor Code",2
+10,'Notification under Article 62, Paragraph 5 of the Labor Code',2
 11,Job Description,2
 12,Medical Certificate,2
 13,Bank Account Details,2
@@ -17,7 +17,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 16,Criminal Record Cerificate,2
 17,Safety Declaration,2
 18,Safety Questionnaire,2
-19,"Notification under Article 62, Paragraph 5 of the Labor Code",3
+19,'Notification under Article 62, Paragraph 5 of the Labor Code',3
 20,Job Description,3
 21,Medical Certificate,3
 22,Bank Account Details,3
@@ -26,7 +26,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 25,Criminal Record Cerificate,3
 26,Safety Declaration,3
 27,Safety Questionnaire,3
-28,"Notification under Article 62, Paragraph 5 of the Labor Code",4
+28,'Notification under Article 62, Paragraph 5 of the Labor Code',4
 29,Job Description,4
 30,Medical Certificate,4
 31,Bank Account Details,4
@@ -35,7 +35,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 34,Criminal Record Cerificate,4
 35,Safety Declaration,4
 36,Safety Questionnaire,4
-37,"Notification under Article 62, Paragraph 5 of the Labor Code",5
+37,'Notification under Article 62, Paragraph 5 of the Labor Code',5
 38,Job Description,5
 39,Medical Certificate,5
 40,Bank Account Details,5
@@ -44,7 +44,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 43,Criminal Record Cerificate,5
 44,Safety Declaration,5
 45,Safety Questionnaire,5
-46,"Notification under Article 62, Paragraph 5 of the Labor Code",6
+46,'Notification under Article 62, Paragraph 5 of the Labor Code',6
 47,Job Description,6
 48,Medical Certificate,6
 49,Bank Account Details,6
@@ -53,7 +53,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 52,Criminal Record Cerificate,6
 53,Safety Declaration,6
 54,Safety Questionnaire,6
-55,"Notification under Article 62, Paragraph 5 of the Labor Code",7
+55,'Notification under Article 62, Paragraph 5 of the Labor Code',7
 56,Job Description,7
 57,Medical Certificate,7
 58,Bank Account Details,7
@@ -62,7 +62,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 61,Criminal Record Cerificate,7
 62,Safety Declaration,7
 63,Safety Questionnaire,7
-64,"Notification under Article 62, Paragraph 5 of the Labor Code",8
+64,'Notification under Article 62, Paragraph 5 of the Labor Code',8
 65,Job Description,8
 66,Medical Certificate,8
 67,Bank Account Details,8
@@ -71,7 +71,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 70,Criminal Record Cerificate,8
 71,Safety Declaration,8
 72,Safety Questionnaire,8
-73,"Notification under Article 62, Paragraph 5 of the Labor Code",9
+73,'Notification under Article 62, Paragraph 5 of the Labor Code',9
 74,Job Description,9
 75,Medical Certificate,9
 76,Bank Account Details,9
@@ -80,7 +80,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 79,Criminal Record Cerificate,9
 80,Safety Declaration,9
 81,Safety Questionnaire,9
-82,"Notification under Article 62, Paragraph 5 of the Labor Code",10
+82,'Notification under Article 62, Paragraph 5 of the Labor Code',10
 83,Job Description,10
 84,Medical Certificate,10
 85,Bank Account Details,10
@@ -89,7 +89,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 88,Criminal Record Cerificate,10
 89,Safety Declaration,10
 90,Safety Questionnaire,10
-91,"Notification under Article 62, Paragraph 5 of the Labor Code",11
+91,'Notification under Article 62, Paragraph 5 of the Labor Code',11
 92,Job Description,11
 93,Medical Certificate,11
 94,Bank Account Details,11
@@ -98,7 +98,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 97,Criminal Record Cerificate,11
 98,Safety Declaration,11
 99,Safety Questionnaire,11
-100,"Notification under Article 62, Paragraph 5 of the Labor Code",12
+100,'Notification under Article 62, Paragraph 5 of the Labor Code',12
 101,Job Description,12
 102,Medical Certificate,12
 103,Bank Account Details,12
@@ -107,7 +107,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 106,Criminal Record Cerificate,12
 107,Safety Declaration,12
 108,Safety Questionnaire,12
-109,"Notification under Article 62, Paragraph 5 of the Labor Code",13
+109,'Notification under Article 62, Paragraph 5 of the Labor Code',13
 110,Job Description,13
 111,Medical Certificate,13
 112,Bank Account Details,13
@@ -116,7 +116,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 115,Criminal Record Cerificate,13
 116,Safety Declaration,13
 117,Safety Questionnaire,13
-118,"Notification under Article 62, Paragraph 5 of the Labor Code",14
+118,'Notification under Article 62, Paragraph 5 of the Labor Code',14
 119,Job Description,14
 120,Medical Certificate,14
 121,Bank Account Details,14
@@ -125,7 +125,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 124,Criminal Record Cerificate,14
 125,Safety Declaration,14
 126,Safety Questionnaire,14
-127,"Notification under Article 62, Paragraph 5 of the Labor Code",15
+127,'Notification under Article 62, Paragraph 5 of the Labor Code',15
 128,Job Description,15
 129,Medical Certificate,15
 130,Bank Account Details,15
@@ -134,7 +134,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 133,Criminal Record Cerificate,15
 134,Safety Declaration,15
 135,Safety Questionnaire,15
-136,"Notification under Article 62, Paragraph 5 of the Labor Code",16
+136,'Notification under Article 62, Paragraph 5 of the Labor Code',16
 137,Job Description,16
 138,Medical Certificate,16
 139,Bank Account Details,16
@@ -143,7 +143,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 142,Criminal Record Cerificate,16
 143,Safety Declaration,16
 144,Safety Questionnaire,16
-145,"Notification under Article 62, Paragraph 5 of the Labor Code",17
+145,'Notification under Article 62, Paragraph 5 of the Labor Code',17
 146,Job Description,17
 147,Medical Certificate,17
 148,Bank Account Details,17
@@ -152,7 +152,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 151,Criminal Record Cerificate,17
 152,Safety Declaration,17
 153,Safety Questionnaire,17
-154,"Notification under Article 62, Paragraph 5 of the Labor Code",18
+154,'Notification under Article 62, Paragraph 5 of the Labor Code',18
 155,Job Description,18
 156,Medical Certificate,18
 157,Bank Account Details,18
@@ -161,7 +161,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 160,Criminal Record Cerificate,18
 161,Safety Declaration,18
 162,Safety Questionnaire,18
-163,"Notification under Article 62, Paragraph 5 of the Labor Code",19
+163,'Notification under Article 62, Paragraph 5 of the Labor Code',19
 164,Job Description,19
 165,Medical Certificate,19
 166,Bank Account Details,19
@@ -170,7 +170,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 169,Criminal Record Cerificate,19
 170,Safety Declaration,19
 171,Safety Questionnaire,19
-172,"Notification under Article 62, Paragraph 5 of the Labor Code",20
+172,'Notification under Article 62, Paragraph 5 of the Labor Code',20
 173,Job Description,20
 174,Medical Certificate,20
 175,Bank Account Details,20
@@ -179,7 +179,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 178,Criminal Record Cerificate,20
 179,Safety Declaration,20
 180,Safety Questionnaire,20
-181,"Notification under Article 62, Paragraph 5 of the Labor Code",21
+181,'Notification under Article 62, Paragraph 5 of the Labor Code',21
 182,Job Description,21
 183,Medical Certificate,21
 184,Bank Account Details,21
@@ -188,7 +188,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 187,Criminal Record Cerificate,21
 188,Safety Declaration,21
 189,Safety Questionnaire,21
-190,"Notification under Article 62, Paragraph 5 of the Labor Code",22
+190,'Notification under Article 62, Paragraph 5 of the Labor Code',22
 191,Job Description,22
 192,Medical Certificate,22
 193,Bank Account Details,22
@@ -197,7 +197,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 196,Criminal Record Cerificate,22
 197,Safety Declaration,22
 198,Safety Questionnaire,22
-199,"Notification under Article 62, Paragraph 5 of the Labor Code",23
+199,'Notification under Article 62, Paragraph 5 of the Labor Code',23
 200,Job Description,23
 201,Medical Certificate,23
 202,Bank Account Details,23
@@ -206,7 +206,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 205,Criminal Record Cerificate,23
 206,Safety Declaration,23
 207,Safety Questionnaire,23
-108,"Notification under Article 62, Paragraph 5 of the Labor Code",24
+108,'Notification under Article 62, Paragraph 5 of the Labor Code',24
 209,Job Description,24
 210,Medical Certificate,24
 211,Bank Account Details,24
@@ -215,7 +215,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 214,Criminal Record Cerificate,24
 215,Safety Declaration,24
 216,Safety Questionnaire,24
-217,"Notification under Article 62, Paragraph 5 of the Labor Code",25
+217,'Notification under Article 62, Paragraph 5 of the Labor Code',25
 218,Job Description,25
 219,Medical Certificate,25
 220,Bank Account Details,25
@@ -224,7 +224,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 223,Criminal Record Cerificate,25
 224,Safety Declaration,25
 225,Safety Questionnaire,25
-226,"Notification under Article 62, Paragraph 5 of the Labor Code",26
+226,'Notification under Article 62, Paragraph 5 of the Labor Code',26
 227,Job Description,26
 228,Medical Certificate,26
 229,Bank Account Details,26
@@ -233,7 +233,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 232,Criminal Record Cerificate,26
 233,Safety Declaration,26
 234,Safety Questionnaire,26
-235,"Notification under Article 62, Paragraph 5 of the Labor Code",27
+235,'Notification under Article 62, Paragraph 5 of the Labor Code',27
 236,Job Description,27
 237,Medical Certificate,27
 238,Bank Account Details,27
@@ -242,7 +242,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 241,Criminal Record Cerificate,27
 242,Safety Declaration,27
 243,Safety Questionnaire,27
-244,"Notification under Article 62, Paragraph 5 of the Labor Code",28
+244,'Notification under Article 62, Paragraph 5 of the Labor Code',28
 245,Job Description,28
 246,Medical Certificate,28
 247,Bank Account Details,28
@@ -251,7 +251,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 250,Criminal Record Cerificate,28
 251,Safety Declaration,28
 252,Safety Questionnaire,28
-253,"Notification under Article 62, Paragraph 5 of the Labor Code",29
+253,'Notification under Article 62, Paragraph 5 of the Labor Code',29
 254,Job Description,29
 255,Medical Certificate,29
 256,Bank Account Details,29
@@ -260,7 +260,7 @@ EMPLOYEECONTRACTITEM_ID,EMPLOYEECONTRACTITEM_NAME,EMPLOYEECONTRACTITEM_EMPLOYEEC
 259,Criminal Record Cerificate,29
 260,Safety Declaration,29
 261,Safety Questionnaire,29
-262,"Notification under Article 62, Paragraph 5 of the Labor Code",30
+262,'Notification under Article 62, Paragraph 5 of the Labor Code',30
 263,Job Description,30
 264,Medical Certificate,30
 265,Bank Account Details,30
